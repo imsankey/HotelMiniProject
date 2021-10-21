@@ -1,0 +1,2 @@
+# HotelMiniProject
+Object array use
